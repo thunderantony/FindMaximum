@@ -18,6 +18,7 @@ To write a program to find the maximum of a list of numbers.
 ## Program:
 
 i) # To find the maximum of marks using the list method sort.
+
 ![Screenshot 2024-04-16 125752](https://github.com/thunderantony/FindMaximum/assets/149364638/08109f37-c78c-4820-a201-7d0d77c879d1)
 
 
@@ -28,6 +29,7 @@ ii) # To find the maximum marks using the list method max().
 
 
 iii) # To find the maximum marks without using builtin functions.
+
 ![Screenshot 2024-04-16 125430](https://github.com/thunderantony/FindMaximum/assets/149364638/b300874e-def7-4e2b-9367-843a6408c084)
 
 
